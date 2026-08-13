@@ -4,8 +4,6 @@
 
 ## ⚠️ Important Notice
 
-This project is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
 ## Usage Policy
 
 By accessing, downloading, or using any part of this repository, you acknowledge and agree to the following terms:
